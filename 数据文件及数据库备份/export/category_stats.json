@@ -1,0 +1,5 @@
+{"_id":"数学","count":3,"max_price":48,"min_price":36,"total_borrow":311,"category":"数学","avg_price":43.0,"avg_rating":4.67,"updated_at":{"$date":"2026-10-24T15:50:56.812Z"}}
+{"_id":"外语","count":2,"max_price":118,"min_price":52,"total_borrow":123,"category":"外语","avg_price":85.0,"avg_rating":4.35,"updated_at":{"$date":"2026-10-24T15:50:56.812Z"}}
+{"_id":"计算机","count":7,"max_price":139,"min_price":39,"total_borrow":977,"category":"计算机","avg_price":78.43,"avg_rating":4.5,"updated_at":{"$date":"2026-10-24T15:50:56.812Z"}}
+{"_id":"文学","count":5,"max_price":88.2,"min_price":25.2,"total_borrow":817,"category":"文学","avg_price":55.57,"avg_rating":4.7,"updated_at":{"$date":"2026-10-24T15:50:56.812Z"}}
+{"_id":"经济管理","count":3,"max_price":128,"min_price":59,"total_borrow":250,"category":"经济管理","avg_price":92.0,"avg_rating":4.2,"updated_at":{"$date":"2026-10-24T15:50:56.812Z"}}

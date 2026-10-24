@@ -1,0 +1,67 @@
+{
+  "books": {
+    "count": 20,
+    "indexes": [
+      "_id_",
+      "idx_category_price",
+      "idx_text_title_author",
+      "uk_isbn",
+      "idx_borrow_count_desc"
+    ]
+  },
+  "readers": {
+    "count": 16,
+    "indexes": [
+      "_id_",
+      "uk_card_no"
+    ]
+  },
+  "borrow_logs": {
+    "count": 66,
+    "indexes": [
+      "reader_card_1_borrow_date_1"
+    ]
+  },
+  "category": [
+    {
+      "n": 7,
+      "borrow": 977,
+      "category": "计算机"
+    },
+    {
+      "n": 5,
+      "borrow": 817,
+      "category": "文学"
+    },
+    {
+      "n": 3,
+      "borrow": 311,
+      "category": "数学"
+    },
+    {
+      "n": 3,
+      "borrow": 250,
+      "category": "经济管理"
+    },
+    {
+      "n": 2,
+      "borrow": 123,
+      "category": "外语"
+    }
+  ],
+  "status": [
+    {
+      "n": 39,
+      "status": "已归还"
+    },
+    {
+      "n": 14,
+      "status": "借出"
+    },
+    {
+      "n": 13,
+      "status": "逾期"
+    }
+  ],
+  "generated_at": "2026-10-20 10:37:33"
+}

@@ -1,0 +1,139 @@
+{
+  "category_stats": {
+    "type": "collection",
+    "options": {},
+    "indexes": [
+      {
+        "name": "_id_",
+        "key": {
+          "_id": 1
+        },
+        "unique": false
+      },
+      {
+        "name": "uk_category",
+        "key": {
+          "category": 1
+        },
+        "unique": true
+      }
+    ]
+  },
+  "book_logs": {
+    "type": "collection",
+    "options": {
+      "capped": "True",
+      "size": "1048576",
+      "max": "1000"
+    },
+    "indexes": [
+      {
+        "name": "_id_",
+        "key": {
+          "_id": 1
+        },
+        "unique": false
+      }
+    ]
+  },
+  "books": {
+    "type": "collection",
+    "options": {
+      "validator": "{'$jsonSchema': {'bsonType': 'object', 'required': ['isbn', 'title', 'category', 'price', 'stock'], 'properties': {'isbn': {'bsonType': 'string', 'description': 'ISBN 必须为字符串'}, 'title': {'bsonType': 'string'}, 'author': {'bsonType': ['string', 'null']}, 'publisher': {'bsonType': ['string', 'null']}, 'category': {'bsonType': 'string'}, 'price': {'bsonType': ['double', 'int', 'long', 'decimal']}, 'stock': {'bsonType': 'int', 'minimum': 0}, 'rating': {'bsonType': ['double', 'int', 'null'], 'minimum': 0, 'maximum': 5}, 'tags': {'bsonType': ['array', 'null']}, 'publish_date': {'bsonType': ['date', 'null']}, 'borrow_count': {'bsonType': ['int', 'long', 'null'], 'minimum': 0}}}}",
+      "validationLevel": "strict",
+      "validationAction": "error"
+    },
+    "indexes": [
+      {
+        "name": "_id_",
+        "key": {
+          "_id": 1
+        },
+        "unique": false
+      },
+      {
+        "name": "idx_category_price",
+        "key": {
+          "category": 1,
+          "price": -1
+        },
+        "unique": false
+      },
+      {
+        "name": "idx_text_title_author",
+        "key": {
+          "_fts": "text",
+          "_ftsx": 1
+        },
+        "unique": false
+      },
+      {
+        "name": "uk_isbn",
+        "key": {
+          "isbn": 1
+        },
+        "unique": true
+      },
+      {
+        "name": "idx_borrow_count_desc",
+        "key": {
+          "borrow_count": -1
+        },
+        "unique": false
+      }
+    ]
+  },
+  "readers": {
+    "type": "collection",
+    "options": {},
+    "indexes": [
+      {
+        "name": "_id_",
+        "key": {
+          "_id": 1
+        },
+        "unique": false
+      },
+      {
+        "name": "uk_card_no",
+        "key": {
+          "card_no": 1
+        },
+        "unique": true
+      }
+    ]
+  },
+  "borrow_logs": {
+    "type": "timeseries",
+    "options": {
+      "expireAfterSeconds": "157680000",
+      "timeseries": "{'timeField': 'borrow_date', 'metaField': 'reader_card', 'granularity': 'hours', 'bucketMaxSpanSeconds': 2592000}"
+    },
+    "indexes": [
+      {
+        "name": "reader_card_1_borrow_date_1",
+        "key": {
+          "reader_card": 1,
+          "borrow_date": 1
+        },
+        "unique": false
+      },
+      {
+        "name": "idx_card_date",
+        "key": {
+          "reader_card": 1,
+          "borrow_date": -1
+        },
+        "unique": false
+      }
+    ]
+  },
+  "book_in_stock": {
+    "type": "view",
+    "options": {
+      "viewOn": "books",
+      "pipeline": "[{'$match': {'stock': {'$gt': 0}}}]"
+    },
+    "indexes": []
+  }
+}
