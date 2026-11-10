@@ -1,0 +1,60 @@
+[{
+  "_id": {
+    "$oid": "6af2f6d18e216ea340aa9bd3"
+  },
+  "book_count": 5,
+  "stock_total": 50,
+  "category": "历史",
+  "avg_price": 95.6,
+  "avg_rating": 4.66
+},
+{
+  "_id": {
+    "$oid": "6af2f6d18e216ea340aa9bd4"
+  },
+  "book_count": 5,
+  "stock_total": 72,
+  "category": "外语",
+  "avg_price": 59,
+  "avg_rating": 4.32
+},
+{
+  "_id": {
+    "$oid": "6af2f6d18e216ea340aa9bd5"
+  },
+  "book_count": 6,
+  "stock_total": 122,
+  "category": "数学",
+  "avg_price": 40.67,
+  "avg_rating": 4.43
+},
+{
+  "_id": {
+    "$oid": "6af2f6d18e216ea340aa9bd6"
+  },
+  "book_count": 12,
+  "stock_total": 181,
+  "category": "文学",
+  "avg_price": 47.02,
+  "avg_rating": 4.62
+},
+{
+  "_id": {
+    "$oid": "6af2f6d18e216ea340aa9bd7"
+  },
+  "book_count": 7,
+  "stock_total": 64,
+  "category": "经济管理",
+  "avg_price": 90.86,
+  "avg_rating": 4.3
+},
+{
+  "_id": {
+    "$oid": "6af2f6d18e216ea340aa9bd8"
+  },
+  "book_count": 15,
+  "stock_total": 172,
+  "category": "计算机",
+  "avg_price": 89.53,
+  "avg_rating": 4.53
+}]

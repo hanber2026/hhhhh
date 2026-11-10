@@ -1,0 +1,36 @@
+{
+ "ebooks": [
+  {
+   "filename": "ebook_1.pdf",
+   "bytes": 39837,
+   "related_isbn": "9787115428028"
+  },
+  {
+   "filename": "ebook_2.pdf",
+   "bytes": 38524,
+   "related_isbn": "9787121362726"
+  },
+  {
+   "filename": "ebook_3.pdf",
+   "bytes": 37004,
+   "related_isbn": "9787115546081"
+  }
+ ],
+ "covers": [
+  {
+   "filename": "cover_1.png",
+   "bytes": 23611,
+   "related_isbn": "9787115428028"
+  },
+  {
+   "filename": "cover_2.png",
+   "bytes": 26053,
+   "related_isbn": "9787121362726"
+  },
+  {
+   "filename": "cover_3.png",
+   "bytes": 15171,
+   "related_isbn": "9787115546081"
+  }
+ ]
+}

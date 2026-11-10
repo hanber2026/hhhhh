@@ -1,0 +1,7 @@
+_id,book_count,stock_total,category,avg_price,avg_rating
+6af2f6d18e216ea340aa9bd3,5,50,历史,95.6,4.66
+6af2f6d18e216ea340aa9bd4,5,72,外语,59,4.32
+6af2f6d18e216ea340aa9bd5,6,122,数学,40.67,4.43
+6af2f6d18e216ea340aa9bd6,12,181,文学,47.02,4.62
+6af2f6d18e216ea340aa9bd7,7,64,经济管理,90.86,4.3
+6af2f6d18e216ea340aa9bd8,15,172,计算机,89.53,4.53

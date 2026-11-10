@@ -1,0 +1,1069 @@
+[
+ {
+  "isbn": "9787115428028",
+  "title": "Python编程：从入门到实践",
+  "author": "埃里克·马瑟斯",
+  "publisher": "人民邮电出版社",
+  "category": "计算机",
+  "price": 89.0,
+  "stock": 15,
+  "rating": 4.6,
+  "publish_date": "2023-03-01T00:00:00.000+08:00",
+  "borrow_count": 127,
+  "location": {
+   "floor": "二楼专业图书区",
+   "shelf": "A-07",
+   "copies": 2
+  },
+  "tags": [
+   "编程",
+   "入门",
+   "Python"
+  ],
+  "ebook_name": "ebook_1.pdf"
+ },
+ {
+  "isbn": "9787121362726",
+  "title": "深入理解计算机系统（第3版）",
+  "author": "Randal E. Bryant",
+  "publisher": "电子工业出版社",
+  "category": "计算机",
+  "price": 139.0,
+  "stock": 8,
+  "rating": 4.8,
+  "publish_date": "2021-11-15T00:00:00.000+08:00",
+  "borrow_count": 156,
+  "location": {
+   "floor": "二楼专业图书区",
+   "shelf": "A-03",
+   "copies": 2
+  },
+  "tags": [
+   "计算机",
+   "体系结构",
+   "进阶"
+  ],
+  "ebook_name": "ebook_2.pdf"
+ },
+ {
+  "isbn": "9787115546081",
+  "title": "算法图解",
+  "author": "Aditya Bhargava",
+  "publisher": "人民邮电出版社",
+  "category": "计算机",
+  "price": 49.0,
+  "stock": 22,
+  "rating": 4.5,
+  "publish_date": "2019-04-01T00:00:00.000+08:00",
+  "borrow_count": 98,
+  "location": {
+   "floor": "二楼专业图书区",
+   "shelf": "A-17",
+   "copies": 3
+  },
+  "tags": [
+   "算法",
+   "入门",
+   "图解"
+  ],
+  "ebook_name": "ebook_3.pdf"
+ },
+ {
+  "isbn": "9787302653315",
+  "title": "数据结构（C语言版）",
+  "author": "严蔚敏",
+  "publisher": "清华大学出版社",
+  "category": "计算机",
+  "price": 39.0,
+  "stock": 0,
+  "rating": 4.3,
+  "publish_date": "2007-08-01T00:00:00.000+08:00",
+  "borrow_count": 203,
+  "location": {
+   "floor": "二楼专业图书区",
+   "shelf": "A-04",
+   "copies": 1
+  },
+  "tags": [
+   "数据结构",
+   "教材"
+  ]
+ },
+ {
+  "isbn": "9787115293800",
+  "title": "JavaScript高级程序设计（第4版）",
+  "author": "Matt Frisbie",
+  "publisher": "人民邮电出版社",
+  "category": "计算机",
+  "price": 109.0,
+  "stock": 17,
+  "rating": 4.4,
+  "publish_date": "2020-06-01T00:00:00.000+08:00",
+  "borrow_count": 134,
+  "location": {
+   "floor": "二楼专业图书区",
+   "shelf": "A-02",
+   "copies": 3
+  },
+  "tags": [
+   "JavaScript",
+   "前端",
+   "进阶"
+  ]
+ },
+ {
+  "isbn": "9787121362855",
+  "title": "设计模式",
+  "author": "Erich Gamma",
+  "publisher": "电子工业出版社",
+  "category": "计算机",
+  "price": 79.0,
+  "stock": 13,
+  "rating": 4.7,
+  "publish_date": "2006-01-01T00:00:00.000+08:00",
+  "borrow_count": 171,
+  "location": {
+   "floor": "二楼专业图书区",
+   "shelf": "A-09",
+   "copies": 2
+  },
+  "tags": [
+   "编程",
+   "设计模式",
+   "进阶"
+  ]
+ },
+ {
+  "isbn": "9787111666787",
+  "title": "数据库系统概念（第7版）",
+  "author": "Abraham Silberschatz",
+  "publisher": "机械工业出版社",
+  "category": "计算机",
+  "price": 128.0,
+  "stock": 9,
+  "rating": 4.6,
+  "publish_date": "2021-07-01T00:00:00.000+08:00",
+  "borrow_count": 112,
+  "location": {
+   "floor": "二楼专业图书区",
+   "shelf": "A-19",
+   "copies": 1
+  },
+  "tags": [
+   "数据库",
+   "教材",
+   "理论"
+  ]
+ },
+ {
+  "isbn": "9787115478795",
+  "title": "编译原理（第2版）",
+  "author": "Alfred V. Aho",
+  "publisher": "人民邮电出版社",
+  "category": "计算机",
+  "price": 99.0,
+  "stock": 6,
+  "rating": 4.5,
+  "publish_date": "2019-01-01T00:00:00.000+08:00",
+  "borrow_count": 74,
+  "location": {
+   "floor": "二楼专业图书区",
+   "shelf": "A-18",
+   "copies": 3
+  },
+  "tags": [
+   "编译原理",
+   "教材",
+   "进阶"
+  ]
+ },
+ {
+  "isbn": "9787111544937",
+  "title": "计算机网络：自顶向下方法",
+  "author": "James F. Kurose",
+  "publisher": "机械工业出版社",
+  "category": "计算机",
+  "price": 89.0,
+  "stock": 11,
+  "rating": 4.7,
+  "publish_date": "2018-06-01T00:00:00.000+08:00",
+  "borrow_count": 143,
+  "location": {
+   "floor": "二楼专业图书区",
+   "shelf": "A-02",
+   "copies": 1
+  },
+  "tags": [
+   "网络",
+   "教材"
+  ]
+ },
+ {
+  "isbn": "9787111407010",
+  "title": "代码整洁之道",
+  "author": "Robert C. Martin",
+  "publisher": "人民邮电出版社",
+  "category": "计算机",
+  "price": 59.0,
+  "stock": 19,
+  "rating": 4.6,
+  "publish_date": "2010-01-01T00:00:00.000+08:00",
+  "borrow_count": 168,
+  "location": {
+   "floor": "二楼专业图书区",
+   "shelf": "A-05",
+   "copies": 3
+  },
+  "tags": [
+   "编程",
+   "规范",
+   "进阶"
+  ]
+ },
+ {
+  "isbn": "9787544253994",
+  "title": "活着",
+  "author": "余华",
+  "publisher": "作家出版社",
+  "category": "文学",
+  "price": 28.0,
+  "stock": 32,
+  "rating": 4.9,
+  "publish_date": "2012-08-01T00:00:00.000+08:00",
+  "borrow_count": 243,
+  "location": {
+   "floor": "一楼中文图书区",
+   "shelf": "B-04",
+   "copies": 1
+  },
+  "tags": [
+   "文学",
+   "小说",
+   "经典"
+  ]
+ },
+ {
+  "isbn": "9787020042033",
+  "title": "红楼梦",
+  "author": "曹雪芹",
+  "publisher": "人民文学出版社",
+  "category": "文学",
+  "price": 59.7,
+  "stock": 21,
+  "rating": 4.7,
+  "publish_date": "1996-12-01T00:00:00.000+08:00",
+  "borrow_count": 189,
+  "location": {
+   "floor": "一楼中文图书区",
+   "shelf": "B-19",
+   "copies": 1
+  },
+  "tags": [
+   "文学",
+   "古典",
+   "小说"
+  ]
+ },
+ {
+  "isbn": "9787549529322",
+  "title": "平凡的世界（全三部）",
+  "author": "路遥",
+  "publisher": "北京十月文艺出版社",
+  "category": "文学",
+  "price": 98.0,
+  "stock": 9,
+  "rating": 4.8,
+  "publish_date": "2017-05-01T00:00:00.000+08:00",
+  "borrow_count": 167,
+  "location": {
+   "floor": "一楼中文图书区",
+   "shelf": "B-20",
+   "copies": 1
+  },
+  "tags": [
+   "文学",
+   "小说",
+   "经典"
+  ]
+ },
+ {
+  "isbn": "9787532754808",
+  "title": "百年孤独",
+  "author": "加西亚·马尔克斯",
+  "publisher": "南海出版公司",
+  "category": "文学",
+  "price": 55.0,
+  "stock": 12,
+  "rating": 4.6,
+  "publish_date": "2017-04-01T00:00:00.000+08:00",
+  "borrow_count": 142,
+  "location": {
+   "floor": "一楼中文图书区",
+   "shelf": "B-18",
+   "copies": 3
+  }
+ },
+ {
+  "isbn": "9787532718758",
+  "title": "飘",
+  "author": "玛格丽特·米切尔",
+  "publisher": "译林出版社",
+  "category": "文学",
+  "price": 68.0,
+  "stock": 5,
+  "rating": 4.5,
+  "publish_date": "2020-03-01T00:00:00.000+08:00",
+  "borrow_count": 76,
+  "location": {
+   "floor": "一楼中文图书区",
+   "shelf": "B-03",
+   "copies": 3
+  }
+ },
+ {
+  "isbn": "9787020002207",
+  "title": "围城",
+  "author": "钱钟书",
+  "publisher": "人民文学出版社",
+  "category": "文学",
+  "price": 39.0,
+  "stock": 14,
+  "rating": 4.8,
+  "publish_date": "1991-02-01T00:00:00.000+08:00",
+  "borrow_count": 155,
+  "location": {
+   "floor": "一楼中文图书区",
+   "shelf": "B-04",
+   "copies": 3
+  },
+  "tags": [
+   "文学",
+   "小说",
+   "经典"
+  ]
+ },
+ {
+  "isbn": "9787530216781",
+  "title": "穆斯林的葬礼",
+  "author": "霍达",
+  "publisher": "北京十月文艺出版社",
+  "category": "文学",
+  "price": 45.0,
+  "stock": 7,
+  "rating": 4.4,
+  "publish_date": "2015-09-01T00:00:00.000+08:00",
+  "borrow_count": 89,
+  "location": {
+   "floor": "一楼中文图书区",
+   "shelf": "B-16",
+   "copies": 1
+  },
+  "tags": [
+   "文学",
+   "小说"
+  ]
+ },
+ {
+  "isbn": "9787544270878",
+  "title": "解忧杂货店",
+  "author": "东野圭吾",
+  "publisher": "南海出版公司",
+  "category": "文学",
+  "price": 39.5,
+  "stock": 23,
+  "rating": 4.5,
+  "publish_date": "2014-05-01T00:00:00.000+08:00",
+  "borrow_count": 201,
+  "location": {
+   "floor": "一楼中文图书区",
+   "shelf": "B-03",
+   "copies": 3
+  },
+  "tags": [
+   "文学",
+   "小说",
+   "畅销"
+  ]
+ },
+ {
+  "isbn": "9787302423282",
+  "title": "经济学原理（第7版）",
+  "author": "N.格里高利·曼昆",
+  "publisher": "北京大学出版社",
+  "category": "经济管理",
+  "price": 128.0,
+  "stock": 14,
+  "rating": 4.4,
+  "publish_date": "2020-04-01T00:00:00.000+08:00",
+  "borrow_count": 118,
+  "location": {
+   "floor": "二楼专业图书区",
+   "shelf": "C-04",
+   "copies": 3
+  },
+  "tags": [
+   "经济学",
+   "教材",
+   "入门"
+  ]
+ },
+ {
+  "isbn": "9787521701326",
+  "title": "公司理财",
+  "author": "斯蒂芬·罗斯",
+  "publisher": "中国人民大学出版社",
+  "category": "经济管理",
+  "price": 89.0,
+  "stock": 11,
+  "rating": 4.2,
+  "publish_date": "2018-07-01T00:00:00.000+08:00",
+  "borrow_count": 87,
+  "location": {
+   "floor": "二楼专业图书区",
+   "shelf": "C-06",
+   "copies": 1
+  },
+  "tags": [
+   "金融",
+   "教材"
+  ]
+ },
+ {
+  "isbn": "9787521711881",
+  "title": "创业企业管理",
+  "author": "张创业",
+  "publisher": "北京大学出版社",
+  "category": "经济管理",
+  "price": 59.0,
+  "stock": 6,
+  "rating": 4.0,
+  "publish_date": "2021-09-01T00:00:00.000+08:00",
+  "borrow_count": 45,
+  "location": {
+   "floor": "二楼专业图书区",
+   "shelf": "C-19",
+   "copies": 1
+  },
+  "tags": [
+   "管理",
+   "创业"
+  ]
+ },
+ {
+  "isbn": "9787111604655",
+  "title": "管理学（第13版）",
+  "author": "斯蒂芬·罗宾斯",
+  "publisher": "机械工业出版社",
+  "category": "经济管理",
+  "price": 99.0,
+  "stock": 8,
+  "rating": 4.3,
+  "publish_date": "2019-03-01T00:00:00.000+08:00",
+  "borrow_count": 92,
+  "location": {
+   "floor": "二楼专业图书区",
+   "shelf": "C-19",
+   "copies": 1
+  },
+  "tags": [
+   "管理",
+   "教材"
+  ]
+ },
+ {
+  "isbn": "9787300287357",
+  "title": "市场营销原理",
+  "author": "菲利普·科特勒",
+  "publisher": "中国人民大学出版社",
+  "category": "经济管理",
+  "price": 85.0,
+  "stock": 10,
+  "rating": 4.4,
+  "publish_date": "2020-09-01T00:00:00.000+08:00",
+  "borrow_count": 103,
+  "location": {
+   "floor": "二楼专业图书区",
+   "shelf": "C-11",
+   "copies": 3
+  },
+  "tags": [
+   "营销",
+   "教材"
+  ]
+ },
+ {
+  "isbn": "9787115298428",
+  "title": "费马大定理",
+  "author": "西蒙·辛格",
+  "publisher": "人民邮电出版社",
+  "category": "数学",
+  "price": 45.0,
+  "stock": 19,
+  "rating": 4.7,
+  "publish_date": "2017-10-01T00:00:00.000+08:00",
+  "borrow_count": 92,
+  "location": {
+   "floor": "二楼专业图书区",
+   "shelf": "D-04",
+   "copies": 2
+  },
+  "tags": [
+   "数学",
+   "科普",
+   "经典"
+  ]
+ },
+ {
+  "isbn": "9787040405241",
+  "title": "数学之美",
+  "author": "吴军",
+  "publisher": "高等教育出版社",
+  "category": "数学",
+  "price": 36.0,
+  "stock": 25,
+  "rating": 4.5,
+  "publish_date": "2012-03-01T00:00:00.000+08:00",
+  "borrow_count": 158,
+  "location": {
+   "floor": "二楼专业图书区",
+   "shelf": "D-04",
+   "copies": 3
+  },
+  "tags": [
+   "数学",
+   "科普"
+  ]
+ },
+ {
+  "isbn": "9787518910041",
+  "title": "哥德尔证明",
+  "author": "道格拉斯·霍斯曼",
+  "publisher": "中国人民大学出版社",
+  "category": "数学",
+  "price": 48.0,
+  "stock": 4,
+  "rating": 4.8,
+  "publish_date": "2016-08-01T00:00:00.000+08:00",
+  "borrow_count": 61,
+  "location": {
+   "floor": "二楼专业图书区",
+   "shelf": "D-02",
+   "copies": 1
+  }
+ },
+ {
+  "isbn": "9787040396614",
+  "title": "高等数学（上册）",
+  "author": "同济大学数学系",
+  "publisher": "高等教育出版社",
+  "category": "数学",
+  "price": 42.0,
+  "stock": 30,
+  "rating": 4.2,
+  "publish_date": "2014-07-01T00:00:00.000+08:00",
+  "borrow_count": 312,
+  "location": {
+   "floor": "二楼专业图书区",
+   "shelf": "D-15",
+   "copies": 3
+  },
+  "tags": [
+   "数学",
+   "教材"
+  ]
+ },
+ {
+  "isbn": "9787040396621",
+  "title": "线性代数（第6版）",
+  "author": "同济大学数学系",
+  "publisher": "高等教育出版社",
+  "category": "数学",
+  "price": 28.0,
+  "stock": 28,
+  "rating": 4.1,
+  "publish_date": "2014-06-01T00:00:00.000+08:00",
+  "borrow_count": 287,
+  "location": {
+   "floor": "二楼专业图书区",
+   "shelf": "D-08",
+   "copies": 3
+  },
+  "tags": [
+   "数学",
+   "教材"
+  ]
+ },
+ {
+  "isbn": "9787115373991",
+  "title": "概率论与数理统计",
+  "author": "茆诗松",
+  "publisher": "高等教育出版社",
+  "category": "数学",
+  "price": 45.0,
+  "stock": 16,
+  "rating": 4.3,
+  "publish_date": "2011-08-01T00:00:00.000+08:00",
+  "borrow_count": 176,
+  "location": {
+   "floor": "二楼专业图书区",
+   "shelf": "D-16",
+   "copies": 2
+  },
+  "tags": [
+   "数学",
+   "教材",
+   "概率"
+  ]
+ },
+ {
+  "isbn": "9787544720973",
+  "title": "英语语法新思维",
+  "author": "张满胜",
+  "publisher": "北京大学出版社",
+  "category": "外语",
+  "price": 52.0,
+  "stock": 16,
+  "rating": 4.1,
+  "publish_date": "2019-05-01T00:00:00.000+08:00",
+  "borrow_count": 84,
+  "location": {
+   "floor": "三楼外文图书区",
+   "shelf": "E-17",
+   "copies": 2
+  },
+  "tags": [
+   "英语",
+   "语法",
+   "教材"
+  ]
+ },
+ {
+  "isbn": "9787544674585",
+  "title": "牛津英语用法指南",
+  "author": "Michael Swan",
+  "publisher": "外语教学与研究出版社",
+  "category": "外语",
+  "price": 118.0,
+  "stock": 3,
+  "rating": 4.6,
+  "publish_date": "2021-01-01T00:00:00.000+08:00",
+  "borrow_count": 39,
+  "location": {
+   "floor": "三楼外文图书区",
+   "shelf": "E-17",
+   "copies": 1
+  },
+  "tags": [
+   "英语",
+   "词典",
+   "工具书"
+  ]
+ },
+ {
+  "isbn": "9787513590805",
+  "title": "新概念英语（第2册）",
+  "author": "L.G. Alexander",
+  "publisher": "外语教学与研究出版社",
+  "category": "外语",
+  "price": 38.0,
+  "stock": 24,
+  "rating": 4.5,
+  "publish_date": "1997-10-01T00:00:00.000+08:00",
+  "borrow_count": 265,
+  "location": {
+   "floor": "三楼外文图书区",
+   "shelf": "E-01",
+   "copies": 3
+  },
+  "tags": [
+   "英语",
+   "教材",
+   "经典"
+  ]
+ },
+ {
+  "isbn": "9787513590812",
+  "title": "新概念英语（第3册）",
+  "author": "L.G. Alexander",
+  "publisher": "外语教学与研究出版社",
+  "category": "外语",
+  "price": 42.0,
+  "stock": 20,
+  "rating": 4.4,
+  "publish_date": "1997-10-01T00:00:00.000+08:00",
+  "borrow_count": 198,
+  "location": {
+   "floor": "三楼外文图书区",
+   "shelf": "E-16",
+   "copies": 3
+  },
+  "tags": [
+   "英语",
+   "教材"
+  ]
+ },
+ {
+  "isbn": "9787544653958",
+  "title": "日语综合教程（第1册）",
+  "author": "谭晶华",
+  "publisher": "上海外语教育出版社",
+  "category": "外语",
+  "price": 45.0,
+  "stock": 9,
+  "rating": 4.0,
+  "publish_date": "2018-03-01T00:00:00.000+08:00",
+  "borrow_count": 67,
+  "location": {
+   "floor": "三楼外文图书区",
+   "shelf": "E-07",
+   "copies": 1
+  },
+  "tags": [
+   "日语",
+   "教材"
+  ]
+ },
+ {
+  "isbn": "9787508660752",
+  "title": "人类简史",
+  "author": "尤瓦尔·赫拉利",
+  "publisher": "中信出版社",
+  "category": "历史",
+  "price": 68.0,
+  "stock": 18,
+  "rating": 4.7,
+  "publish_date": "2014-11-01T00:00:00.000+08:00",
+  "borrow_count": 221,
+  "location": {
+   "floor": "一楼中文图书区",
+   "shelf": "F-01",
+   "copies": 1
+  },
+  "tags": [
+   "历史",
+   "社科",
+   "畅销"
+  ]
+ },
+ {
+  "isbn": "9787508647357",
+  "title": "万历十五年",
+  "author": "黄仁宇",
+  "publisher": "中华书局",
+  "category": "历史",
+  "price": 36.0,
+  "stock": 15,
+  "rating": 4.6,
+  "publish_date": "2006-08-01T00:00:00.000+08:00",
+  "borrow_count": 134,
+  "location": {
+   "floor": "一楼中文图书区",
+   "shelf": "F-17",
+   "copies": 1
+  },
+  "tags": [
+   "历史",
+   "中国史",
+   "经典"
+  ]
+ },
+ {
+  "isbn": "9787108009821",
+  "title": "中国通史",
+  "author": "吕思勉",
+  "publisher": "生活·读书·新知三联书店",
+  "category": "历史",
+  "price": 78.0,
+  "stock": 7,
+  "rating": 4.5,
+  "publish_date": "2005-01-01T00:00:00.000+08:00",
+  "borrow_count": 88,
+  "location": {
+   "floor": "一楼中文图书区",
+   "shelf": "F-10",
+   "copies": 2
+  },
+  "tags": [
+   "历史",
+   "中国史"
+  ]
+ },
+ {
+  "isbn": "9787508672069",
+  "title": "全球通史",
+  "author": "斯塔夫里阿诺斯",
+  "publisher": "北京大学出版社",
+  "category": "历史",
+  "price": 98.0,
+  "stock": 6,
+  "rating": 4.6,
+  "publish_date": "2006-10-01T00:00:00.000+08:00",
+  "borrow_count": 76,
+  "location": {
+   "floor": "一楼中文图书区",
+   "shelf": "F-07",
+   "copies": 1
+  },
+  "tags": [
+   "历史",
+   "世界史",
+   "教材"
+  ]
+ },
+ {
+  "isbn": "9787101003048",
+  "title": "史记（全十册）",
+  "author": "司马迁",
+  "publisher": "中华书局",
+  "category": "历史",
+  "price": 198.0,
+  "stock": 4,
+  "rating": 4.9,
+  "publish_date": "1982-11-01T00:00:00.000+08:00",
+  "borrow_count": 119,
+  "location": {
+   "floor": "一楼中文图书区",
+   "shelf": "F-01",
+   "copies": 2
+  },
+  "tags": [
+   "历史",
+   "古籍",
+   "经典"
+  ]
+ },
+ {
+  "isbn": "9787115428004",
+  "title": "Python数据分析",
+  "author": "Wes McKinney",
+  "publisher": "人民邮电出版社",
+  "category": "计算机",
+  "price": 79.0,
+  "stock": 12,
+  "rating": 4.5,
+  "publish_date": "2018-08-01T00:00:00.000+08:00",
+  "borrow_count": 145,
+  "location": {
+   "floor": "二楼专业图书区",
+   "shelf": "A-12",
+   "copies": 3
+  },
+  "tags": [
+   "编程",
+   "数据分析",
+   "Python"
+  ]
+ },
+ {
+  "isbn": "9787115435069",
+  "title": "机器学习实战",
+  "author": "Peter Harrington",
+  "publisher": "人民邮电出版社",
+  "category": "计算机",
+  "price": 69.0,
+  "stock": 10,
+  "rating": 4.3,
+  "publish_date": "2013-06-01T00:00:00.000+08:00",
+  "borrow_count": 137,
+  "location": {
+   "floor": "二楼专业图书区",
+   "shelf": "A-15",
+   "copies": 1
+  },
+  "tags": [
+   "机器学习",
+   "算法",
+   "实战"
+  ]
+ },
+ {
+  "isbn": "9787115461476",
+  "title": "深度学习",
+  "author": "Ian Goodfellow",
+  "publisher": "人民邮电出版社",
+  "category": "计算机",
+  "price": 168.0,
+  "stock": 5,
+  "rating": 4.6,
+  "publish_date": "2017-08-01T00:00:00.000+08:00",
+  "borrow_count": 164,
+  "location": {
+   "floor": "二楼专业图书区",
+   "shelf": "A-04",
+   "copies": 3
+  },
+  "tags": [
+   "深度学习",
+   "进阶",
+   "理论"
+  ]
+ },
+ {
+  "isbn": "9787302553219",
+  "title": "操作系统概念（第9版）",
+  "author": "Abraham Silberschatz",
+  "publisher": "清华大学出版社",
+  "category": "计算机",
+  "price": 99.0,
+  "stock": 7,
+  "rating": 4.5,
+  "publish_date": "2018-01-01T00:00:00.000+08:00",
+  "borrow_count": 96,
+  "location": {
+   "floor": "二楼专业图书区",
+   "shelf": "A-03",
+   "copies": 3
+  },
+  "tags": [
+   "操作系统",
+   "教材"
+  ]
+ },
+ {
+  "isbn": "9787115546085",
+  "title": "图解HTTP",
+  "author": "上野宣",
+  "publisher": "人民邮电出版社",
+  "category": "计算机",
+  "price": 49.0,
+  "stock": 18,
+  "rating": 4.4,
+  "publish_date": "2014-05-01T00:00:00.000+08:00",
+  "borrow_count": 121,
+  "location": {
+   "floor": "二楼专业图书区",
+   "shelf": "A-08",
+   "copies": 1
+  },
+  "tags": [
+   "网络",
+   "图解",
+   "入门"
+  ]
+ },
+ {
+  "isbn": "9787532775062",
+  "title": "小王子",
+  "author": "安托万·德·圣埃克苏佩里",
+  "publisher": "上海译文出版社",
+  "category": "文学",
+  "price": 32.0,
+  "stock": 26,
+  "rating": 4.7,
+  "publish_date": "2018-01-01T00:00:00.000+08:00",
+  "borrow_count": 186,
+  "location": {
+   "floor": "一楼中文图书区",
+   "shelf": "B-07",
+   "copies": 3
+  },
+  "tags": [
+   "文学",
+   "童话",
+   "经典"
+  ]
+ },
+ {
+  "isbn": "9787020024759",
+  "title": "边城",
+  "author": "沈从文",
+  "publisher": "人民文学出版社",
+  "category": "文学",
+  "price": 29.0,
+  "stock": 13,
+  "rating": 4.6,
+  "publish_date": "2002-01-01T00:00:00.000+08:00",
+  "borrow_count": 97,
+  "location": {
+   "floor": "一楼中文图书区",
+   "shelf": "B-20",
+   "copies": 1
+  },
+  "tags": [
+   "文学",
+   "小说"
+  ]
+ },
+ {
+  "isbn": "9787506365437",
+  "title": "许三观卖血记",
+  "author": "余华",
+  "publisher": "作家出版社",
+  "category": "文学",
+  "price": 35.0,
+  "stock": 11,
+  "rating": 4.6,
+  "publish_date": "2012-09-01T00:00:00.000+08:00",
+  "borrow_count": 128,
+  "location": {
+   "floor": "一楼中文图书区",
+   "shelf": "B-17",
+   "copies": 3
+  },
+  "tags": [
+   "文学",
+   "小说"
+  ]
+ },
+ {
+  "isbn": "9787559610022",
+  "title": "原则",
+  "author": "瑞·达利欧",
+  "publisher": "中信出版社",
+  "category": "经济管理",
+  "price": 98.0,
+  "stock": 9,
+  "rating": 4.3,
+  "publish_date": "2018-01-01T00:00:00.000+08:00",
+  "borrow_count": 114,
+  "location": {
+   "floor": "二楼专业图书区",
+   "shelf": "C-12",
+   "copies": 3
+  },
+  "tags": [
+   "管理",
+   "思维",
+   "畅销"
+  ]
+ },
+ {
+  "isbn": "9787521701586",
+  "title": "国富论",
+  "author": "亚当·斯密",
+  "publisher": "中华书局",
+  "category": "经济管理",
+  "price": 78.0,
+  "stock": 6,
+  "rating": 4.5,
+  "publish_date": "2016-06-01T00:00:00.000+08:00",
+  "borrow_count": 58,
+  "location": {
+   "floor": "二楼专业图书区",
+   "shelf": "C-07",
+   "copies": 2
+  },
+  "tags": [
+   "经济学",
+   "经典",
+   "理论"
+  ]
+ },
+ {
+  "isbn": "9787544285452",
+  "title": "局外人",
+  "author": "阿尔贝·加缪",
+  "publisher": "上海译文出版社",
+  "category": "文学",
+  "price": 36.0,
+  "stock": 8,
+  "rating": 4.4,
+  "publish_date": "2013-08-01T00:00:00.000+08:00",
+  "borrow_count": 71,
+  "location": {
+   "floor": "一楼中文图书区",
+   "shelf": "B-17",
+   "copies": 2
+  }
+ }
+]
